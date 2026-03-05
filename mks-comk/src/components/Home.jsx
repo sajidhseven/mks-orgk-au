@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import UpcomingEvents from "./UpcomingEvents";
 
 const Home = () => {
@@ -319,4 +319,5 @@ const Home = () => {
 };
 
 export default Home;
+
 
